@@ -5,3 +5,7 @@ Program Explanation: This program is a program to predict the possible risk of d
 </p>
 
 #### -- Project Status: [Completed]
+
+### Getting Started
+1. You can access the raw data [here](https://github.com/hosiajosindra/credit-risk-classification/blob/main/CreditCard.csv) within this repo.
+2. All of the scripts are being kept [here](https://github.com/hosiajosindra/credit-risk-classification/blob/main/credit-risk-usingSMOTE.ipynb).
